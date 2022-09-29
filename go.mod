@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-output-influxdb
+module github.com/spring-financial-group/xk6-output-influxdb
 
 go 1.17
 
